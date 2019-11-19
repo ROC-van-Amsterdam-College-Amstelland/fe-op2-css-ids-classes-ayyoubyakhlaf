@@ -65,3 +65,16 @@ div h1{
     font-size: 50px;
     background-color: brown;
 }
+
+ul li{
+    border: 1px dashed black;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img ul{
+    color: darkgoldenrod;
+    list-style-type: circle;
+}

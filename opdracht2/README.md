@@ -91,9 +91,9 @@ Maak voor onderstaande taken telkens per taak één CSS regel aan met dus één 
 - [x] 10. Haal bij alle links die in een nav zitten de underline weg (text-decoration: none)
 - [x] 11. Haal bij de undordered lists in de header en footer de bullets weg (list-style-type:none;)
 - [x] 12. Geef alle h1 elementen die direct afstammen van een div een font-size vanm 50px en een achtergrondkleur naar keuze
-- [ ] 13. Geef alle list items die direct afstammen van een ul een border van 1px dashed black
-- [ ] 14. Geef alle paragrafen die na een h3 koptekst komen een ander lettertype naar keuze (font-family: ...)
-- [ ] 15. Geef alle unordered lists die die volgen op een img element een color naar keuze en een list style type van circle (list-style-type: circle)
+- [x] 13. Geef alle list items die direct afstammen van een ul een border van 1px dashed black
+- [x] 14. Geef alle paragrafen die na een h3 koptekst komen een ander lettertype naar keuze (font-family: ...)
+- [x] 15. Geef alle unordered lists die die volgen op een img element een color naar keuze en een list style type van circle (list-style-type: circle)
 
 ### Links
 
