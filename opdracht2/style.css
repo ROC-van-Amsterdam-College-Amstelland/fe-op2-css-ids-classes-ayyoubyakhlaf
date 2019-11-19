@@ -43,3 +43,25 @@ main img{
 footer img{
     border: 1px solid black;
 }
+
+header nav ul{
+    display: flex;
+    padding: 20px;
+}
+
+nav{
+    text-decoration: none;
+}
+
+header ul{
+    list-style-type: none;
+}
+
+footer ul{
+    list-style-type: none;
+}
+
+div h1{
+    font-size: 50px;
+    background-color: brown;
+}
