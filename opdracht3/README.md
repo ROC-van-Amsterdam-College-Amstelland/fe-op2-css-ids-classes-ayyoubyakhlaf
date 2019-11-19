@@ -5,7 +5,7 @@
 ### Inleiding
 
 Bij een vorige opdracht heb je kunnen lezen en kunnen oefenen met CSS. Door heel specifiek te coderen kun je bepaalde elementen stijlen.
-Bij deze opdracht herhalen we deze theorie.
+Bij deze opdracht herhalen we deze theorie. 
 
 #### Jouw taak: onderstaande eisen aanhouden en uitvoeren
 
